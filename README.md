@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning Python.<br>I'm a CS major in [BRAC University](https://www.bracu.ac.bd/)
+- Random guy trying to code
+- Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
 
 
 ## 🌐 Socials:
