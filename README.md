@@ -2,6 +2,7 @@
 - Random guy trying to code
 - Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
 
+## Reach me at - maherulhassan1@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakkhosh.007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rakkhosh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meherul-hasan-sabbir-586941243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeherulHSabbir) 
