@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python.<br>I'm a CS major in Brac University
+I'm currently learning Python.<br>I'm a CS major in [BRAC University](https://www.bracu.ac.bd/)
 
 
 ## 🌐 Socials:
