@@ -1,9 +1,7 @@
 # 💫 About Me:
 - Random guy trying to code
 - Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 ## Reach me at - maherulhassan1@gmail.com
 
 ## 🌐 Socials:
@@ -21,3 +19,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GeekRover&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
