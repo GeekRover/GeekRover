@@ -1,6 +1,7 @@
+
 # 💫 About Me:
 - Random guy trying to code
-- Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
+- Studying in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
 
 ## Reach me at - maherulhassan1@gmail.com
 
@@ -9,6 +10,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GeekRover&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GeekRover&theme=dark&hide_border=false)<br/>
@@ -17,9 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 📈 Profile Views
+![Profile Views](https://views.whatilearened.today/views/github/GeekRover.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=GeekRover&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GeekRover.GeekRover&"  />
-</div>
