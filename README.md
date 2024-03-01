@@ -21,5 +21,5 @@
 [![](https://visitcount.itsvg.in/api?id=GeekRover&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=geekrover.geekrover&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GeekRover.GeekRover&"  />
 </div>
